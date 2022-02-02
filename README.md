@@ -9,3 +9,9 @@
 - 🌱 Learning and trying to contribute more to **Open Source**
 - ☁️ Ping me about **Development, Design thinking, React and UI/UX discussions**
 - 📫 Reach me [twitter.com/yashiiikaaa](https://twitter.com/yashiiikaaa)
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
