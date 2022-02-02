@@ -10,11 +10,4 @@
 - ☁️ Ping me about **Development, Design thinking, React and UI/UX discussions**
 - 📫 Reach me [twitter.com/yashiiikaaa](https://twitter.com/yashiiikaaa)
 
-### :zap: Recent Activity
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
